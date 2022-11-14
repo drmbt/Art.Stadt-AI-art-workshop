@@ -2,7 +2,7 @@
 Who I am?
 [drmbt.com](drmbt.com)
 [@drmbt](instagram.com/drmbt)
-![[Vincent-AI-browneyes.png]]
+![/Vincent-AI-browneyes.png]
 ___
 
 Vincent Naples  
