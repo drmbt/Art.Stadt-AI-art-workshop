@@ -35,7 +35,8 @@ Finally, an **image decoder** stochastically generates an image which is a vis
 
 https://www.assemblyai.com/blog/how-dall-e-2-actually-works/
 
-![[diffusion.png]]
+![diffusion.png](/assets/diffusion.png)  
+
 ___
 
 
@@ -43,7 +44,8 @@ What is a diffusion model?
 
 [https://scale.com/guides/diffusion-models-guide](https://scale.com/guides/diffusion-models-guide)
 [https://lilianweng.github.io/posts/2021-07-11-diffusion-models/](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-![[generative-overview.png]]
+![generative-overview](/assets/agenerative-overview.png)  
+
 ---
 a very incomplete list of some ways people are using text2image in mid 2022:
 
