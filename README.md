@@ -149,7 +149,7 @@ ___
 
 4105893191
 
-female body,  close up portrait, epic light, melting liquid, acrylic painting, abstract, in glass and black latex fluid, hyperrealistic, 3d sculpture, bokeh, long exposure, art noveau, artistic sketch,  film still, body paint, shallow depth of field, dithering, animation style of Alberto Mielgo
+body horror, female model, close up portrait, epic light, melting liquid, acrylic painting, abstract, in glass and black latex fluid, hyperrealistic, 3d sculpture, bokeh, long exposure, art noveau, artistic sketch,  film still, body paint, shallow depth of field, dithering, animation style of Alberto Mielgo
 
 ___
 [Stylized Hermana](https://photos.app.goo.gl/kdoQTP19McN8r1VJ7)
