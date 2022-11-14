@@ -44,7 +44,7 @@ What is a diffusion model?
 
 [https://scale.com/guides/diffusion-models-guide](https://scale.com/guides/diffusion-models-guide)
 [https://lilianweng.github.io/posts/2021-07-11-diffusion-models/](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-![generative-overview](/assets/agenerative-overview.png)  
+![generative-overview](/assets/generative-overview.png)  
 
 ---
 a very incomplete list of some ways people are using text2image in mid 2022:
@@ -90,7 +90,7 @@ techniques:
 ___
 let's talk about prompt engineering  
 
-![[b53c0523-482f-4085-bc65-dcb4a267f572_rw_1200.jpeg]]
+![](/assets/prompt-grid.jpeg)
 
 https://vivian-liu.com/text2image
 ___
