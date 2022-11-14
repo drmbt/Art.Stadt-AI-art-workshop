@@ -22,7 +22,7 @@ We are now at the appified / micro service stage of this technology, where lay u
 Although I write a bit of python, I don't currently consider myself a heavy developer, and am working with these tools at this stage due to early exposure to the medium, and interest/research into the techniques as they develop
 ___
 What is text 2 image?
-_![](/assets/avocado chair.png)__
+_![avocado chair](/assets/avocado chair.png)__
 using descriptive strings of words, AI image generation models create images derived from sophisticated data models trained on massive data sets 
 ___
 How it works: 
