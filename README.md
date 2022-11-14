@@ -1,7 +1,7 @@
 
-Who I am?
-[drmbt.com](drmbt.com)
-[@drmbt](instagram.com/drmbt)
+Who I am?  
+[drmbt.com](drmbt.com) .  
+[@drmbt](instagram.com/drmbt) .  
 _![Vincent](/assets/Vincent-AI-browneyes.png)__
 
 Vincent Naples  
