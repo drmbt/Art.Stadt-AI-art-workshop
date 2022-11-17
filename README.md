@@ -67,10 +67,11 @@ local
     - [NMKD](https://nmkd.itch.io/t2i-gui)   
     - [Dif. usion Bee on mac](https://diffusionbee.com/) 
     - [Draw Thi. gs on iOS](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) 
-prompt engineering tools:  
+prompt engineering / SD tools and resources:  
     - [Lexica.art](Lexica.art ) SD s. arch engine  
     - [arthub.ai](https://arthub.ai/) 
     - [V. sual Prompt Builder](https://tools.saxifrage.xyz/prompt) 
+    - [diffusiondb](https://diffusiondb.com/) list of SD tools, UIs, forks etc
 ___
 How do I use SD?    
 
