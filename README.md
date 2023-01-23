@@ -13,13 +13,19 @@ Am I an expert?
 ___
 not really.  
 
+but I have spent a fair amount of time experimenting as a lay user, and as an artist for whom some of the tasks of content creation can now be done by AI models
+
+I recently had the first opportunity to use AI in a commercial setting when projection mapping a building, and have been imagining and experimenting with workflows for incorporating these tools into my existing workflows
+
+[OCELOT_SF](https://photos.app.goo.gl/9e3YeFoEEYBDidJp6)
+
 ___
+Early days in the space = developers and researchers in local dependancy hell
 
-This space started with academics and researchers, eventually coders and developers gained access through locally deployed AI models, then people paying attention on twitter and patreon started gaining access via notebooks.   
+next came colab notebooks distributed via twitter and patreon making accessible interfaces that didnt require coding or specialized hardware
 
-We are now at the appified / micro service stage of this technology, where lay users can work with the tools without any prior experience or coding background.   
+We are now at the appified / micro service stage of this technology, where lay users can work with the tools without any prior experience or coding background, either locally through accessible UIs or via cloud services and APIs
 
-Although I write a bit of python, I don't currently consider myself a heavy developer, and am working with these tools at this stage due to early exposure to the medium, and interest/research into the techniques as they develop  
 ___
 What is text 2 image?  
 ![avocado](/assets/avocado-chair.png)  
@@ -47,40 +53,45 @@ What is a diffusion model?
 ![generative-overview](/assets/generative-overview.png)  
 
 ---
-a very incomplete list of some ways people are using text2image in mid 2022:  
+a very incomplete list of some ways people are using text2image in mid 2022:
 
-Stable Diffusion - [DreamStudio](https://beta.dreamstudio.ai/dream) official web app from Stability AI, currently open model  
-[Dalle-2](https://openai.com/dall-e-2/) closed source paid token model, cloud based with API  
-[Wombo.ai](https://www.wombo.ai/) Dream app, cloud based freemium model  
-[Starry AI](https://www.starryai.com/) local app, cloud based rendering, demo credits, paid token model  
-[Craiyon](https://www.craiyon.com/) cloud based, free, queue'd renders, lots of ads, begs for donations  
-[Runway ML](https://runwayml.com/training/) suite of ML tools for codelessly training ML models  
+Stable Diffusion - [DreamStudio](https://beta.dreamstudio.ai/dream) official web app from Stability AI, currently open model
+[Dalle-2](https://openai.com/dall-e-2/) closed source paid token model, cloud based with API
+[Wombo.ai](https://www.wombo.ai/) Dream app, cloud based freemium model
+[Starry AI](https://www.starryai.com/) local app, cloud based rendering, demo credits, paid token model
+[Craiyon](https://www.craiyon.com/) cloud based, free, queue'd renders, lots of ads, begs for donations
+[Runway ML](https://runwayml.com/training/) suite of ML tools for codelessly training ML models
 
-private Discord servers  
-    - [Midjourney](https://www.midjourney.com/) discord microservice for text2image with some free tokens, paid subscription  
-    - [Eden](https://www.edenai.co/) not yet public suite of ML tools with API for combining pipelines: [abraham.ai](abraham.ai) 
-. olab Notebooks  
-    - [Deforum video notebook](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=qH74gBWDd2oq) probably most widely used notebook for video frame animation  
-    - [Hugging Face](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) official SD notebook for image creation  
-local  
-    - SD implemention win/linux [example](https://www.youtube.com/watch?v=6MeJKnbv1ts) 
-    - [NMKD](https://nmkd.itch.io/t2i-gui)   
-    - [Dif. usion Bee on mac](https://diffusionbee.com/) 
-    - [Draw Thi. gs on iOS](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) 
-prompt engineering / SD tools and resources:  
-    - [Lexica.art](Lexica.art ) SD s. arch engine  
-    - [arthub.ai](https://arthub.ai/) 
-    - [V. sual Prompt Builder](https://tools.saxifrage.xyz/prompt) 
-    - [diffusiondb](https://diffusiondb.com/) list of SD tools, UIs, forks etc
+private Discord servers
+    - [Midjourney](https://www.midjourney.com/) discord microservice for text2image with some free tokens, paid subscription
+    - [Eden](https://www.edenai.co/) not yet public suite of ML tools with API for combining pipelines: [abraham.ai](abraham.ai)
+Colab Notebooks
+    - [Deforum video notebook](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=qH74gBWDd2oq) probably most widely used notebook for video frame animation
+    - [Hugging Face](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb) official SD notebook for image creation
+local
+    - SD implemention win/linux [example](https://www.youtube.com/watch?v=6MeJKnbv1ts)
+    - [NMKD](https://nmkd.itch.io/t2i-gui) 
+    - [Diffusion Bee on mac](https://diffusionbee.com/)
+    - [Draw Things on iOS](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820)
+    - [SD UI LINUX](https://stable-diffusion-ui.github.io/docs/installation/) 
+    - [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)
+    - [INVOKE AI](https://github.com/invoke-ai/InvokeAI)
+
+prompt engineering / SD resources:
+    - [Lexica.art](Lexica.art ) SD search engine
+    - [arthub.ai](https://arthub.ai/)
+    - [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt)
+	- [diffusiondb](https://diffusiondb.com/) list of SD tools, UIs, forks etc
 ___
 How do I use SD?    
 
 . latforms:   
 	- Eden discord server  
 	- NMKD windows GUI  
-	- played a bit with diffusionbee to test macOS SD  
+	- Automatic1111 and Invoke browser UIs
+	- tested  diffusionbee to test macOS SD  
 	- played a bit with Draw Things to test iOS capabilities  
-	- Toyed around with deforum notebook   
+	- Colab deforum notebook, or thru [dotsimulate tools](instagram.com/dotsimulatre)  
 
 techniques:   
 	- image generation  
